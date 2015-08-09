@@ -15,7 +15,18 @@ public class MazeGame {
         Room room1 = factory.makeRoom(1);
         Room room2 = factory.makeRoom(2);
         Door door = factory.makeDoor(room1, room2);
-
+      /**  technical
+                leadership
+                RRK - teamplayer
+                        googliness
+                        GCA - cognitive ability - take some time, bombard with questions - ask ask ask
+                          (organize games - when, how many, how much budget, location, stuff for marketing, why?
+                        culture enhancement - google, Project mgmt - look into it, QUESTIONS, Matrixs driven
+                        Steps , project mgr and proj mgmt
+                spend time on reading - google products - anti abuse- Adwords, Adsense
+                all the list of products by google - wiki
+                Anti abuse - extremely technical.
+       **/
         maze.addRoom(room1);
         maze.addRoom(room2);
 
